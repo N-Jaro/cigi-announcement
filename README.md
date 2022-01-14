@@ -1,2 +1,2 @@
 # cigi-announcement
-Jupyterlab extension for aanouncement across system
+Jupyterlab extension to display anouncement across the system
